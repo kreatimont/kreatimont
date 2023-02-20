@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kreatimont. I am iOS software engineer 💻
+- 👋 Hi, I’m Alex, mobile software engineer 💻
 - 👀 I’m interested in tech, history and art.  
-- 🌱 I’m currently learning mobile technologies.
 - ⚙️ I’m looking to collaborate on interesting startups.
 - 📫 You can reach me via email nadtoka.alexandr@gmail.com and https://t.me/kreatimont
 
