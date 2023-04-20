@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Alex, mobile software engineer 💻
-- 👀 I’m interested in tech, history and art.  
+- 👋 Hi, I’m Alex, mobile software engineer 💻 mainly experienced in iOS native development 🔨
+- 🍎 Check my [AppStore page](https://apps.apple.com/developer/id1445904985)
 - ⚙️ I’m looking to collaborate on interesting startups.
 - 📫 You can reach me via email nadtoka.alexandr@gmail.com and https://t.me/kreatimont
 
